@@ -77,7 +77,8 @@ cd literalura
 mvn spring-boot:run
 ```
 ✅ A aplicação exibe um menu interativo no console, onde é possível buscar livros e armazená-los no banco de forma simples e rápida.
----
-* **👩‍💻 Desenvolvedora**
+
+
+**👩‍💻 Desenvolvedora**
 **Sulamita Mendes**
 💼 [LinkedIn](linkedin.com/in/sulamita-mendes-2019p)
