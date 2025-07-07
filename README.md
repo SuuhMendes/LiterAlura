@@ -59,7 +59,7 @@ spring.datasource.password=sua_senha
 📌 Obs: Crie um banco de dados chamado literAlura no PostgreSQL antes de rodar a aplicação.
 ---
 
-##📦Como executar a aplicação
+📦Como executar a aplicação
 ---
 ### 1. Faça o clone do repositório:
 ```bash
@@ -68,14 +68,16 @@ git clone https://github.com/SuuhMendes/literalura.git
 ```
 
 ### 2.Navegue até o diretório
+```bash
 cd literalura
+```
 
 ### 3.Execute a aplicação com o Maven:
 ```bash
 mvn spring-boot:run
 ```
 ✅ A aplicação exibe um menu interativo no console, onde é possível buscar livros e armazená-los no banco de forma simples e rápida.
-
+---
 * **👩‍💻 Desenvolvedora**
- Sulamita Mendes
-💼 LinkedIn <!--linkedin.com/in/sulamita-mendes-2019p-->
+**Sulamita Mendes**
+💼 [LinkedIn](linkedin.com/in/sulamita-mendes-2019p)
