@@ -1,5 +1,5 @@
 # 📚 Projeto LiterAlura
-![Biblioteca](src/main/java/com/one/desafio/literAlura/assets/biblioteca.jpg)
+![Biblioteca](src/main/java/com/one/desafio/literAlura/assets/biblioteca1.jpg)
 
 
 Aplicação Java + Spring Boot desenvolvida como parte do desafio proposto pela [Alura](https://www.alura.com.br/) no programa **Oracle Next Education (ONE)**.
