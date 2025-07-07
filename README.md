@@ -54,28 +54,28 @@ Exemplo:
 spring.datasource.url=jdbc:postgresql://localhost:5432/literAlura
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
-
+```
 ---
 📌 Obs: Crie um banco de dados chamado literAlura no PostgreSQL antes de rodar a aplicação.
+---
 
-
-## 📦 Como executar a aplicação
-
-1. Faça o clone do repositório:
-
+##📦Como executar a aplicação
+---
+### 1. Faça o clone do repositório:
 ```bash
 git clone https://github.com/SuuhMendes/literalura.git
-Acesse o diretório do projeto:
 
-```bash
-2.Navegue até o diretório
+```
+
+### 2.Navegue até o diretório
 cd literalura
-Execute a aplicação com o Maven:
 
+### 3.Execute a aplicação com o Maven:
 ```bash
 mvn spring-boot:run
+```
 ✅ A aplicação exibe um menu interativo no console, onde é possível buscar livros e armazená-los no banco de forma simples e rápida.
 
-👩‍💻 Desenvolvedora
-Sulamita Mendes
+* **👩‍💻 Desenvolvedora**
+ Sulamita Mendes
 💼 LinkedIn <!--linkedin.com/in/sulamita-mendes-2019p-->
