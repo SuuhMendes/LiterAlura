@@ -1,4 +1,4 @@
-package com.one.desafio.literAlura;
+package com.one.desafio.literAlura.appMenu;
 
 import com.one.desafio.literAlura.model.Autor;
 import com.one.desafio.literAlura.model.Livro;

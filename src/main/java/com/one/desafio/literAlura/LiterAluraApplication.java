@@ -1,5 +1,6 @@
 package com.one.desafio.literAlura;
 
+import com.one.desafio.literAlura.appMenu.MenuPrincipal;
 import com.one.desafio.literAlura.repository.AutorRepository;
 import com.one.desafio.literAlura.repository.LivroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
